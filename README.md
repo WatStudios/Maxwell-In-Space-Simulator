@@ -1,4 +1,4 @@
-### Maxwell-In-Space-Simulator
+## Maxwell In Space Simulator
 ## About
 Maxwell In Space Simulator is a game where you watch Maxwell spin in space. Your goal is to see how long you can watch and listen!
 
